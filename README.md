@@ -1,6 +1,6 @@
 # AlphaRouter
 
-refer to https://www.mdpi.com/1099-4300/27/3/251
+for more information, refer to https://www.mdpi.com/1099-4300/27/3/251
 
 For training, modify the parameters in the main_pretrain.py, which are depicted as a dictionary consisting keys as the parameter name and the values as the list of possible values.
 
